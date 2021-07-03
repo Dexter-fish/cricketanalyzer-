@@ -14,3 +14,4 @@ certifi==2021.5.30
 #Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
 wincertstore==0.2
 #zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
+gunicorn==20.0.4
